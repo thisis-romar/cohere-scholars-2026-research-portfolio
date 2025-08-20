@@ -1,0 +1,551 @@
+{
+  "analysis_date": "2025-08-19T20:07:59.049519",
+  "paper_coverage": {
+    "categories": {
+      "Multilingual": {
+        "count": 7,
+        "papers": [
+          "NeoBabel: A Multilingual Open Tower for Visual Generation",
+          "One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers",
+          "The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It",
+          "Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation",
+          "Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier",
+          "M-RewardBench: Evaluating Reward Models in Multilingual Settings",
+          "MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions"
+        ],
+        "percentage": 25.925925925925924
+      },
+      "Evaluation": {
+        "count": 6,
+        "papers": [
+          "Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI's Real World Effects",
+          "The Leaderboard Illusion",
+          "Kaleidoscope: Exams for Multilingual Vision Evaluation",
+          "From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions",
+          "Global MMLU",
+          "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"
+        ],
+        "percentage": 22.22222222222222
+      },
+      "Inference": {
+        "count": 5,
+        "papers": [
+          "When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs",
+          "Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers",
+          "Crosslingual Reasoning through Test-Time Scaling",
+          "BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts",
+          "Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts"
+        ],
+        "percentage": 18.51851851851852
+      },
+      "Multimodal": {
+        "count": 1,
+        "papers": [
+          "Aya Vision: Advancing the Frontier of Multilingual Multimodality"
+        ],
+        "percentage": 3.7037037037037033
+      },
+      "Data-Training": {
+        "count": 3,
+        "papers": [
+          "How to Improve the Robustness of Closed-Source Models on NLI",
+          "Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement",
+          "Bridging the Data Provenance Gap Across Text, Speech, and Video"
+        ],
+        "percentage": 11.11111111111111
+      },
+      "Model-Merging": {
+        "count": 3,
+        "papers": [
+          "If You Can't Use Them, Recycle Them",
+          "Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning",
+          "Investigating Continual Pretraining in Large Language Models: Insights and Implications"
+        ],
+        "percentage": 11.11111111111111
+      },
+      "Preference-Personalization": {
+        "count": 2,
+        "papers": [
+          "When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning",
+          "A Post-trainer's Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics"
+        ],
+        "percentage": 7.4074074074074066
+      }
+    },
+    "total_papers": 27,
+    "coverage_percentage": {},
+    "research_gaps": [
+      {
+        "category": "Multimodal",
+        "current_count": 1,
+        "below_average_by": 2.857142857142857
+      },
+      {
+        "category": "Data-Training",
+        "current_count": 3,
+        "below_average_by": 0.8571428571428572
+      },
+      {
+        "category": "Model-Merging",
+        "current_count": 3,
+        "below_average_by": 0.8571428571428572
+      },
+      {
+        "category": "Preference-Personalization",
+        "current_count": 2,
+        "below_average_by": 1.8571428571428572
+      }
+    ]
+  },
+  "reading_schedule": {
+    "total_papers": 27,
+    "papers_per_week": 1,
+    "weekly_schedule": [
+      {
+        "week": 1,
+        "papers": [
+          {
+            "title": "NeoBabel: A Multilingual Open Tower for Visual Generation",
+            "category": "Multilingual",
+            "filename": "NeoBabel_Multilingual_Open_Tower_Visual_Generation.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 2,
+        "papers": [
+          {
+            "title": "One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers",
+            "category": "Multilingual",
+            "filename": "One_Tokenizer_Rule_Them_All_Multilingual_Tokenizers.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 3,
+        "papers": [
+          {
+            "title": "The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It",
+            "category": "Multilingual",
+            "filename": "State_Multilingual_LLM_Safety_Research.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 4,
+        "papers": [
+          {
+            "title": "Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation",
+            "category": "Multilingual",
+            "filename": "Deja_Vu_Multilingual_LLM_Evaluation_MT.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 5,
+        "papers": [
+          {
+            "title": "Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier",
+            "category": "Multilingual",
+            "filename": "Aya_Expanse_Research_Breakthroughs_Multilingual.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 6,
+        "papers": [
+          {
+            "title": "M-RewardBench: Evaluating Reward Models in Multilingual Settings",
+            "category": "Multilingual",
+            "filename": "M_RewardBench_Evaluating_Reward_Models_Multilingual.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 7,
+        "papers": [
+          {
+            "title": "MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions",
+            "category": "Multilingual",
+            "filename": "MURI_High_Quality_Instruction_Tuning_Low_Resource.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multilingual"
+      },
+      {
+        "week": 8,
+        "papers": [
+          {
+            "title": "Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI's Real World Effects",
+            "category": "Evaluation",
+            "filename": "Reality_Check_New_Evaluation_Ecosystem_AI.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Evaluation"
+      },
+      {
+        "week": 9,
+        "papers": [
+          {
+            "title": "The Leaderboard Illusion",
+            "category": "Evaluation",
+            "filename": "The_Leaderboard_Illusion.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Evaluation"
+      },
+      {
+        "week": 10,
+        "papers": [
+          {
+            "title": "Kaleidoscope: Exams for Multilingual Vision Evaluation",
+            "category": "Evaluation",
+            "filename": "Kaleidoscope_Exams_Multilingual_Vision_Evaluation.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Evaluation"
+      },
+      {
+        "week": 11,
+        "papers": [
+          {
+            "title": "From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions",
+            "category": "Evaluation",
+            "filename": "From_Tools_Teammates_LLMs_Multi_Session_Coding.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Evaluation"
+      },
+      {
+        "week": 12,
+        "papers": [
+          {
+            "title": "Global MMLU",
+            "category": "Evaluation",
+            "filename": "Global_MMLU.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Evaluation"
+      },
+      {
+        "week": 13,
+        "papers": [
+          {
+            "title": "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge",
+            "category": "Evaluation",
+            "filename": "INCLUDE_Evaluating_Multilingual_Regional_Knowledge.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Evaluation"
+      },
+      {
+        "week": 14,
+        "papers": [
+          {
+            "title": "When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs",
+            "category": "Inference",
+            "filename": "When_Life_Gives_Samples_Scaling_Inference_Multilingual.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Inference"
+      },
+      {
+        "week": 15,
+        "papers": [
+          {
+            "title": "Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers",
+            "category": "Inference",
+            "filename": "Treasure_Hunt_Real_Time_Long_Tail_Training_Markers.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Inference"
+      },
+      {
+        "week": 16,
+        "papers": [
+          {
+            "title": "Crosslingual Reasoning through Test-Time Scaling",
+            "category": "Inference",
+            "filename": "Crosslingual_Reasoning_Test_Time_Scaling.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Inference"
+      },
+      {
+        "week": 17,
+        "papers": [
+          {
+            "title": "BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts",
+            "category": "Inference",
+            "filename": "BAM_Simple_Efficient_Parameter_Upcycling_MoE.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Inference"
+      },
+      {
+        "week": 18,
+        "papers": [
+          {
+            "title": "Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts",
+            "category": "Inference",
+            "filename": "Nexus_Specialization_Adaptability_Training_MoE.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Inference"
+      },
+      {
+        "week": 19,
+        "papers": [
+          {
+            "title": "Aya Vision: Advancing the Frontier of Multilingual Multimodality",
+            "category": "Multimodal",
+            "filename": "Aya_Vision_Advancing_Multilingual_Multimodality.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Multimodal"
+      },
+      {
+        "week": 20,
+        "papers": [
+          {
+            "title": "How to Improve the Robustness of Closed-Source Models on NLI",
+            "category": "Data-Training",
+            "filename": "Improve_Robustness_Closed_Source_Models_NLI.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Data-Training"
+      },
+      {
+        "week": 21,
+        "papers": [
+          {
+            "title": "Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement",
+            "category": "Data-Training",
+            "filename": "Diversify_Conquer_Data_Selection_Iterative_Refinement.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Data-Training"
+      },
+      {
+        "week": 22,
+        "papers": [
+          {
+            "title": "Bridging the Data Provenance Gap Across Text, Speech, and Video",
+            "category": "Data-Training",
+            "filename": "Bridging_Data_Provenance_Gap_Text_Speech_Video.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Data-Training"
+      },
+      {
+        "week": 23,
+        "papers": [
+          {
+            "title": "If You Can't Use Them, Recycle Them",
+            "category": "Model-Merging",
+            "filename": "If_You_Cant_Use_Them_Recycle_Them.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Model-Merging"
+      },
+      {
+        "week": 24,
+        "papers": [
+          {
+            "title": "Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning",
+            "category": "Model-Merging",
+            "filename": "Mix_Data_Merge_Models_Multi_Task_Learning.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Model-Merging"
+      },
+      {
+        "week": 25,
+        "papers": [
+          {
+            "title": "Investigating Continual Pretraining in Large Language Models: Insights and Implications",
+            "category": "Model-Merging",
+            "filename": "Investigating_Continual_Pretraining_LLMs.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Model-Merging"
+      },
+      {
+        "week": 26,
+        "papers": [
+          {
+            "title": "When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning",
+            "category": "Preference-Personalization",
+            "filename": "When_Personalization_Meets_Reality_Preference_Learning.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Preference-Personalization"
+      },
+      {
+        "week": 27,
+        "papers": [
+          {
+            "title": "A Post-trainer's Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics",
+            "category": "Preference-Personalization",
+            "filename": "Post_Trainer_Guide_Multilingual_Training_Data.pdf",
+            "estimated_hours": 2
+          }
+        ],
+        "focus_area": "Preference-Personalization"
+      }
+    ],
+    "priority_recommendations": {
+      "Multilingual": {
+        "reason": "Core focus of Cohere - demonstrates alignment with company mission",
+        "paper_count": 7,
+        "estimated_hours": 14
+      },
+      "Evaluation": {
+        "reason": "Critical for understanding model performance and validation methodologies",
+        "paper_count": 6,
+        "estimated_hours": 12
+      },
+      "Inference": {
+        "reason": "Important for practical deployment and efficiency considerations",
+        "paper_count": 5,
+        "estimated_hours": 10
+      },
+      "Multimodal": {
+        "reason": "Growing research area with significant industry impact",
+        "paper_count": 1,
+        "estimated_hours": 2
+      },
+      "Data-Training": {
+        "reason": "Foundation knowledge for understanding model development",
+        "paper_count": 3,
+        "estimated_hours": 6
+      },
+      "Model-Merging": {
+        "reason": "Technical optimization techniques for model improvement",
+        "paper_count": 3,
+        "estimated_hours": 6
+      },
+      "Preference-Personalization": {
+        "reason": "Specialized area for user-centric AI development",
+        "paper_count": 2,
+        "estimated_hours": 4
+      }
+    }
+  },
+  "application_strategy": {
+    "research_strengths": [
+      {
+        "area": "Multilingual",
+        "paper_count": 7,
+        "key_papers": [
+          "NeoBabel: A Multilingual Open Tower for Visual Generation",
+          "One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers"
+        ],
+        "talking_points": [
+          "Global accessibility of AI systems",
+          "Cross-lingual transfer learning challenges",
+          "Cultural sensitivity in AI development"
+        ]
+      },
+      {
+        "area": "Evaluation",
+        "paper_count": 6,
+        "key_papers": [
+          "Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI's Real World Effects",
+          "The Leaderboard Illusion"
+        ],
+        "talking_points": [
+          "Robust metrics beyond traditional benchmarks",
+          "Real-world performance assessment",
+          "Bias detection and mitigation"
+        ]
+      },
+      {
+        "area": "Inference",
+        "paper_count": 5,
+        "key_papers": [
+          "When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs",
+          "Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers"
+        ],
+        "talking_points": [
+          "Efficient deployment of large models",
+          "Edge computing considerations",
+          "Latency vs. accuracy trade-offs"
+        ]
+      }
+    ],
+    "video_content_suggestions": [
+      {
+        "section": "Introduction (30 seconds)",
+        "content": "Background in AI/ML, current research focus",
+        "script_outline": "Brief personal introduction and research passion"
+      },
+      {
+        "section": "Research Interests (90 seconds)",
+        "content": "Focus on top 3 areas: Multilingual, Evaluation, Inference",
+        "script_outline": "Specific examples from paper analysis, why these areas matter"
+      },
+      {
+        "section": "Why Cohere (60 seconds)",
+        "content": "Alignment with Cohere's multilingual mission, collaborative culture",
+        "script_outline": "Connection between research interests and Cohere's goals"
+      },
+      {
+        "section": "Future Vision (30 seconds)",
+        "content": "How this experience will advance research and career goals",
+        "script_outline": "Concrete outcomes and contributions expected"
+      }
+    ],
+    "application_highlights": [
+      "Comprehensive analysis of 27 relevant research papers",
+      "Strong focus on Multilingual research area (7 papers)",
+      "Systematic approach to understanding current AI/ML research landscape",
+      "Clear alignment with Cohere's research priorities and mission"
+    ],
+    "preparation_timeline": {
+      "Weeks 1-7": "Deep reading and paper analysis",
+      "Weeks 8-15": "Application writing and video preparation",
+      "Weeks 16-23": "Review, refinement, and submission"
+    },
+    "research_narrative": ""
+  },
+  "next_steps": [
+    "Begin systematic paper reading according to schedule",
+    "Start drafting application form responses",
+    "Prepare video script outline",
+    "Set up weekly progress tracking",
+    "Schedule practice video recordings"
+  ]
+}
