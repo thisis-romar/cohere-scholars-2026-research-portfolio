@@ -1,0 +1,14 @@
+{
+  "pdf_path": "01-PAPERS\\Multimodal\\Aya_Vision_Advancing_Multilingual_Multimodality.pdf",
+  "timestamp": "20250820_180506",
+  "results": {
+    "markitdown": {
+      "method": "markitdown",
+      "text_length": 176137,
+      "metadata": {
+        "title": null
+      },
+      "success": true
+    }
+  }
+}
