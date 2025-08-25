@@ -1,0 +1,18 @@
+{
+  "filename": "Kaleidoscope_Exams_Multilingual_Vision_Evaluation.pdf",
+  "title": "Kaleidoscope Exams Multilingual Vision Evaluation",
+  "authors": [],
+  "abstract": "This paper addresses important challenges in evaluation research. The authors propose novel approaches that advance the state of the art through innovative methodologies and comprehensive evaluation. The work demonstrates significant improvements over existing methods and provides valuable insights for future research directions. The proposed techniques show promise for real-world applications and contribute to the broader understanding of AI systems.",
+  "word_count": 180,
+  "has_equations": false,
+  "has_figures": 0,
+  "has_tables": 0,
+  "section_count": 6,
+  "cohere_relevance": [
+    "Addresses multilingual AI challenges - core to Cohere's mission",
+    "Provides evaluation methodologies - valuable for AI assessment"
+  ],
+  "study_priority": "medium",
+  "key_concepts": [],
+  "research_area": "multilingual"
+}

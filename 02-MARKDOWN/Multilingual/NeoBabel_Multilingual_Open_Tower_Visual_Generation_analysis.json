@@ -1,0 +1,44 @@
+{
+  "title": "NeoBabel: A Multilingual Open Tower for Visual Generation",
+  "authors": [
+    "Mohammad Mahdi Derakhshani",
+    "Dheeraj Varghese",
+    "Marzieh Fadaee",
+    "Cees G. M. Snoek"
+  ],
+  "affiliation": "Cohere Labs, University of Amsterdam",
+  "category": "Multilingual",
+  "key_contributions": [
+    "Novel multilingual image generation framework supporting six languages",
+    "Progressive training pipeline with large-scale multilingual pretraining",
+    "Extended multilingual benchmarks (m-GenEval and m-DPG)",
+    "New metrics for cross-lingual consistency (CLC) and code switching (CSS)",
+    "Open toolkit with 124M multilingual text-image pairs"
+  ],
+  "languages_supported": [
+    "English",
+    "Chinese",
+    "Dutch",
+    "French",
+    "Hindi",
+    "Persian"
+  ],
+  "technical_innovations": [
+    "Unified multimodal embedding space",
+    "Modality-aware attention patterns",
+    "Multilingual model merging techniques",
+    "Direct cross-lingual mappings without translation dependencies"
+  ],
+  "evaluation_results": {
+    "m_geneval_score": 0.75,
+    "m_dpg_score": 0.68,
+    "performance_vs_larger_models": "Matches or exceeds performance while being 2-4\u00d7 smaller"
+  },
+  "relevance_to_cohere": [
+    "Direct Cohere Labs authorship (Marzieh Fadaee)",
+    "Addresses multilingual AI inclusivity challenges",
+    "Demonstrates efficiency gains in multilingual generation",
+    "Provides open datasets and evaluation protocols",
+    "Advances cultural diversity in AI systems"
+  ]
+}
