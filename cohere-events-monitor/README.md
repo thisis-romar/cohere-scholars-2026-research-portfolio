@@ -28,10 +28,10 @@ npm start
 ## 📋 Features
 
 - **🔍 Automated Monitoring**: Scheduled checks of Cohere events page using MCP Firecrawl integration
-- **📅 Google Calendar Sync**: Automatic event creation and updates in your Google Calendar  
+- **📅 MCP Calendar Integration**: Seamless Google Calendar operations through Claude Desktop MCP tools
 - **🏷️ Event Categorization**: Intelligent classification of research, workshop, seminar, and conference events
 - **📊 Change Detection**: Identifies new, updated, and removed events between monitoring cycles
-- **🔧 Flexible Configuration**: Customizable monitoring intervals and notification preferences
+- **🔧 Simplified Setup**: No manual OAuth - MCP server handles all authentication
 - **📝 Comprehensive Logging**: Detailed operation logs for debugging and audit trails
 
 ## 🏗️ Architecture
@@ -40,14 +40,14 @@ npm start
 
 1. **Event Monitor** (`src/monitor.ts`): Main monitoring logic with MCP Firecrawl integration
 2. **Event Parser** (`src/event-parser.ts`): Intelligent parsing of Cohere events page content
-3. **Google Calendar Integration** (`src/google-calendar.ts`): OAuth authentication and calendar operations
+3. **MCP Calendar Integration** (`src/mcp-calendar.ts`): Simplified calendar operations via MCP tools
 4. **TypeScript Interfaces** (`src/types.ts`): Comprehensive type definitions for type safety
 5. **Configuration Management** (`src/config.ts`): System configuration and environment handling
 
 ### Integration Points
 
 - **MCP Firecrawl**: Web scraping of Cohere events page with retry logic and error handling
-- **Google Calendar API**: OAuth 2.0 authentication and event CRUD operations
+- **MCP Google Calendar**: Automated calendar operations through Claude Desktop integration
 - **Node-Cron**: Automated scheduling for continuous monitoring
 - **Commander.js**: CLI interface for manual operations and configuration
 
@@ -58,9 +58,10 @@ npm start
 npm start -- --check-now
 ```
 
-### Configure Google Calendar Integration  
+### Add Events to Calendar via MCP
 ```bash
-npm start -- --setup-calendar
+# Use Claude Desktop with MCP tools:
+# "Create calendar event for: Understanding Attention workshop on December 15, 2024"
 ```
 
 ### Run with Custom Interval
@@ -77,19 +78,24 @@ npm start -- --debug --verbose
 
 ### Environment Variables
 ```bash
-GOOGLE_CALENDAR_ID=your-calendar-id@google.com
 MONITOR_INTERVAL="0 */4 * * *"  # Every 4 hours
 LOG_LEVEL=info
 ENABLE_NOTIFICATIONS=true
 ```
 
-### Google Calendar Setup
-1. Visit [Google Cloud Console](https://console.cloud.google.com/)
-2. Create new project or select existing project
-3. Enable Google Calendar API
-4. Create OAuth 2.0 credentials
-5. Download credentials.json to project root
-6. Run setup: `npm start -- --setup-calendar`
+### MCP Calendar Setup
+The Google Calendar integration is now handled through MCP tools:
+
+1. **MCP Server**: Automatically configured in Claude Desktop
+2. **Authentication**: Handled by MCP server (no manual OAuth required)
+3. **Calendar Operations**: Available through Claude Desktop MCP tools
+
+#### Available MCP Tools:
+- `create-event`: Add events to Google Calendar
+- `list-events`: View existing calendar events  
+- `update-event`: Modify event details
+- `delete-event`: Remove calendar events
+- `search-events`: Find specific events
 
 ## 📊 Validation Results
 
