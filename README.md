@@ -47,13 +47,14 @@ COHERE SCHOLARS PROGRAM 2026/
 ## 📚 Eligible Papers for Video Submission (28 Total)
 
 ### 🌐 Multilingual Papers (7 papers)
-1. **NeoBabel: A Multilingual Open Tower for Visual Generation** - *multimodal*
-2. **One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers** - *multilingual*
-3. **The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It** - *safety*
-4. **Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation** - *multilingual*
-5. **Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier** - *multilingual*
-6. **M-RewardBench: Evaluating Reward Models in Multilingual Settings** - *multilingual*
-7. **MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions** - *multilingual*
+
+1. **[NeoBabel: A Multilingual Open Tower for Visual Generation](02-MARKDOWN/Multilingual/NeoBabel_Multilingual_Open_Tower_Visual_Generation_STUDY.md)** - *multimodal*
+2. **[One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers](02-MARKDOWN/Multilingual/One_Tokenizer_Rule_Them_All_Multilingual_Tokenizers_STUDY.md)** - *multilingual*
+3. **[The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It](02-MARKDOWN/Multilingual/State_Multilingual_LLM_Safety_Research_STUDY.md)** - *safety*
+4. **[Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation](02-MARKDOWN/Multilingual/Deja_Vu_Multilingual_LLM_Evaluation_MT.md)** - *multilingual*
+5. **[Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier](02-MARKDOWN/Multilingual/Aya_Expanse_Research_Breakthroughs_Multilingual_STUDY.md)** - *multilingual*
+6. **[M-RewardBench: Evaluating Reward Models in Multilingual Settings](02-MARKDOWN/Multilingual/M_RewardBench_Evaluating_Reward_Models_Multilingual_STUDY.md)** - *multilingual*
+7. **[MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions](02-MARKDOWN/Multilingual/MURI_High_Quality_Instruction_Tuning_Low_Resource.md)** - *multilingual*
 
 ### 🔍 Evaluation & Benchmarking Papers (6 papers)
 8. **Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI's Real World Effects** - *policy*
