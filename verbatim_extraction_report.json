@@ -1,0 +1,90 @@
+{
+  "timestamp": "2025-08-26",
+  "source_directory": "converted_output",
+  "output_directory": "02-MARKDOWN",
+  "files_processed": 16,
+  "files_extracted": 16,
+  "total_content_size": 2244324,
+  "extracted_files": [
+    {
+      "source": "converted_output\\Aya_Vision_Advancing_Multilingual_Multimodality_RAW_CONVERSION_markitdown_20250820_180034.md",
+      "output": "02-MARKDOWN\\Multimodal\\Aya_Vision_Advancing_Multilingual_Multimodality.md",
+      "size": 176135
+    },
+    {
+      "source": "converted_output\\Aya_Vision_Advancing_Multilingual_Multimodality_RAW_CONVERSION_markitdown_20250820_180506.md",
+      "output": "02-MARKDOWN\\Multimodal\\Aya_Vision_Advancing_Multilingual_Multimodality.md",
+      "size": 176135
+    },
+    {
+      "source": "converted_output\\Bridging_Data_Provenance_Gap_Text_Speech_Video_RAW_CONVERSION_marker_20250820_181806.md",
+      "output": "02-MARKDOWN\\Data-Training\\Bridging_Data_Provenance_Gap_Text_Speech_Video.md",
+      "size": 154396
+    },
+    {
+      "source": "converted_output\\Bridging_Data_Provenance_Gap_Text_Speech_Video_RAW_CONVERSION_marker_20250822_001628.md",
+      "output": "02-MARKDOWN\\Data-Training\\Bridging_Data_Provenance_Gap_Text_Speech_Video.md",
+      "size": 154396
+    },
+    {
+      "source": "converted_output\\Bridging_Data_Provenance_Gap_Text_Speech_Video_RAW_CONVERSION_marker_20250824_230934.md",
+      "output": "02-MARKDOWN\\Data-Training\\Bridging_Data_Provenance_Gap_Text_Speech_Video.md",
+      "size": 154396
+    },
+    {
+      "source": "converted_output\\Diversify_Conquer_Data_Selection_Iterative_Refinement_RAW_CONVERSION_marker_20250820_184440.md",
+      "output": "02-MARKDOWN\\Data-Training\\Diversify_Conquer_Data_Selection_Iterative_Refinement.md",
+      "size": 66047
+    },
+    {
+      "source": "converted_output\\Diversify_Conquer_Data_Selection_Iterative_Refinement_RAW_CONVERSION_marker_20250822_002308.md",
+      "output": "02-MARKDOWN\\Data-Training\\Diversify_Conquer_Data_Selection_Iterative_Refinement.md",
+      "size": 66047
+    },
+    {
+      "source": "converted_output\\Diversify_Conquer_Data_Selection_Iterative_Refinement_RAW_CONVERSION_marker_20250824_231652.md",
+      "output": "02-MARKDOWN\\Data-Training\\Diversify_Conquer_Data_Selection_Iterative_Refinement.md",
+      "size": 66047
+    },
+    {
+      "source": "converted_output\\From_Tools_Teammates_LLMs_Multi_Session_Coding_RAW_CONVERSION_marker_20250820_192039.md",
+      "output": "02-MARKDOWN\\Evaluation\\From_Tools_Teammates_LLMs_Multi_Session_Coding.md",
+      "size": 106273
+    },
+    {
+      "source": "converted_output\\From_Tools_Teammates_LLMs_Multi_Session_Coding_RAW_CONVERSION_marker_20250822_133606.md",
+      "output": "02-MARKDOWN\\Evaluation\\From_Tools_Teammates_LLMs_Multi_Session_Coding.md",
+      "size": 106273
+    },
+    {
+      "source": "converted_output\\From_Tools_Teammates_LLMs_Multi_Session_Coding_RAW_CONVERSION_marker_20250825_005808.md",
+      "output": "02-MARKDOWN\\Evaluation\\From_Tools_Teammates_LLMs_Multi_Session_Coding.md",
+      "size": 106273
+    },
+    {
+      "source": "converted_output\\Global_MMLU_RAW_CONVERSION_marker_20250820_192133.md",
+      "output": "02-MARKDOWN\\Evaluation\\Global_MMLU.md",
+      "size": 225139
+    },
+    {
+      "source": "converted_output\\Global_MMLU_RAW_CONVERSION_marker_20250825_005913.md",
+      "output": "02-MARKDOWN\\Evaluation\\Global_MMLU.md",
+      "size": 225139
+    },
+    {
+      "source": "converted_output\\Improve_Robustness_Closed_Source_Models_NLI_RAW_CONVERSION_marker_20250820_185246.md",
+      "output": "02-MARKDOWN\\Data-Training\\Improve_Robustness_Closed_Source_Models_NLI.md",
+      "size": 153876
+    },
+    {
+      "source": "converted_output\\Improve_Robustness_Closed_Source_Models_NLI_RAW_CONVERSION_marker_20250822_003215.md",
+      "output": "02-MARKDOWN\\Data-Training\\Improve_Robustness_Closed_Source_Models_NLI.md",
+      "size": 153876
+    },
+    {
+      "source": "converted_output\\Improve_Robustness_Closed_Source_Models_NLI_RAW_CONVERSION_marker_20250825_002644.md",
+      "output": "02-MARKDOWN\\Data-Training\\Improve_Robustness_Closed_Source_Models_NLI.md",
+      "size": 153876
+    }
+  ]
+}
