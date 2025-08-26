@@ -152,7 +152,7 @@ Based on comprehensive analysis of the official Cohere Labs Scholars Info Sessio
 - [ ] Complete personal statement (specific moments + research goals + program fit)
 - [ ] Upload video with proper sharing settings
 - [ ] Complete application form
-- [ ] Submit by deadline: **August 29th, 2025** ⚠️ **4 DAYS REMAINING**
+- [ ] Submit by deadline: **August 30, 2025** ⚠️ **4 DAYS REMAINING**
 
 ## 🚀 Next Steps (Priority Order)
 
@@ -196,7 +196,7 @@ Based on comprehensive analysis of the official Cohere Labs Scholars Info Sessio
 
 ## 🚨 **URGENT: Application Deadline in 4 Days**
 
-**Application Deadline:** August 29th, 2025  
+**Application Deadline:** August 30, 2025  
 **Program:** Cohere Labs Scholars Program 2026  
 **Status:** Video Analysis Complete ✅ | Papers Downloaded ✅ | Analysis **CRITICAL** ⚠️  
 **Priority:** MAXIMUM HIGH
@@ -219,7 +219,7 @@ Based on comprehensive analysis of the official Cohere Labs Scholars Info Sessio
 3. **Aug 26**: Complete paper analysis and draft personal statement
 4. **Aug 27**: Record video submission
 5. **Aug 28**: Finalize all application materials
-6. **Aug 29**: Submit application
+6. **Aug 30**: Submit application
 
 ### 🔗 **Critical Resources from Video Analysis**
 - **Application Portal**: [Ashby Application](https://jobs.ashbyhq.com/cohere/a77c6864-5a43-44c1-81dc-a66e23bdd9a6/application)
