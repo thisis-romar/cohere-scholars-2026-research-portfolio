@@ -57,37 +57,43 @@ COHERE SCHOLARS PROGRAM 2026/
 7. **[MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions](02-MARKDOWN/Multilingual/MURI_High_Quality_Instruction_Tuning_Low_Resource.md)** - *multilingual*
 
 ### 🔍 Evaluation & Benchmarking Papers (6 papers)
-8. **Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI's Real World Effects** - *policy*
-9. **The Leaderboard Illusion** - *evaluation*
-10. **Kaleidoscope: Exams for Multilingual Vision Evaluation** - *evaluation*
-11. **From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions** - *evaluation*
-12. **Global MMLU** - *evaluation*
-13. **INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge** - *evaluation*
+
+8. **[Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI's Real World Effects](02-MARKDOWN/Evaluation/Reality_Check_New_Evaluation_Ecosystem_AI_STUDY.md)** - *policy*
+9. **[The Leaderboard Illusion](02-MARKDOWN/Evaluation/The_Leaderboard_Illusion_STUDY.md)** - *evaluation*
+10. **[Kaleidoscope: Exams for Multilingual Vision Evaluation](02-MARKDOWN/Evaluation/Kaleidoscope_In_Language_Exams_Multilingual_Vision_STUDY.md)** - *evaluation*
+11. **[From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions](02-MARKDOWN/Evaluation/From_Tools_Teammates_LLMs_Multi_Session_Coding.md)** - *evaluation*
+12. **[Global MMLU](02-MARKDOWN/Evaluation/Global_MMLU.md)** - *evaluation*
+13. **[INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge](02-MARKDOWN/Evaluation/INCLUDE_Evaluating_Multilingual_Regional_Knowledge_STUDY.md)** - *evaluation*
 
 ### ⚡ Inference & Efficiency Papers (5 papers)
-14. **When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs** - *inference*
-15. **Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers** - *inference*
-16. **Crosslingual Reasoning through Test-Time Scaling** - *inference*
-17. **BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts** - *efficiency*
-18. **Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts** - *efficiency*
+
+14. **[When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs](02-MARKDOWN/Inference/When_Life_Gives_Samples_Scaling_Inference_Multilingual_STUDY.md)** - *inference*
+15. **[Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers](02-MARKDOWN/Inference/Treasure_Hunt_Long_Tail_Optimization_STUDY.md)** - *inference*
+16. **[Crosslingual Reasoning through Test-Time Scaling](02-MARKDOWN/Inference/Crosslingual_Reasoning_Test_Time_Scaling_STUDY.md)** - *inference*
+17. **[BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](02-MARKDOWN/Inference/BAM_Parameter_Upcycling_MoE_STUDY.md)** - *efficiency*
+18. **[Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts](02-MARKDOWN/Inference/Nexus_Adaptive_MoE_Architecture_STUDY.md)** - *efficiency*
 
 ### 🎨 Multimodal Papers (2 papers)
-19. **NeoBabel: A Multilingual Open Tower for Visual Generation** - *multimodal* (cross-listed)
-20. **Aya Vision: Advancing the Frontier of Multilingual Multimodality** - *multimodal*
+
+19. **[NeoBabel: A Multilingual Open Tower for Visual Generation](02-MARKDOWN/Multilingual/NeoBabel_Multilingual_Open_Tower_Visual_Generation_STUDY.md)** - *multimodal* (cross-listed)
+20. **[Aya Vision: Advancing the Frontier of Multilingual Multimodality](02-MARKDOWN/Multimodal/Aya_Vision_Advancing_Multilingual_Multimodality.md)** - *multimodal*
 
 ### 📊 Data & Training Papers (3 papers)
-21. **How to Improve the Robustness of Closed-Source Models on NLI** - *data*
-22. **Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement** - *data*
-23. **Bridging the Data Provenance Gap Across Text, Speech, and Video** - *policy*
+
+21. **[How to Improve the Robustness of Closed-Source Models on NLI](02-MARKDOWN/Data-Training/Improve_Robustness_Closed_Source_Models_NLI.md)** - *data*
+22. **[Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement](02-MARKDOWN/Data-Training/Diversify_Conquer_Data_Selection_Iterative_Refinement.md)** - *data*
+23. **[Bridging the Data Provenance Gap Across Text, Speech, and Video](02-MARKDOWN/Data-Training/Bridging_Data_Provenance_Gap_Text_Speech_Video.md)** - *policy*
 
 ### 🔗 Model Merging & Continual Learning (3 papers)
-24. **If You Can't Use Them, Recycle Them** - *merging*
-25. **Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning** - *merging*
-26. **Investigating Continual Pretraining in Large Language Models: Insights and Implications** - *continual training*
+
+24. **[If You Can't Use Them, Recycle Them](02-MARKDOWN/Model-Merging/Model_Recycling_Optimizing_Merging_Scale_STUDY.md)** - *merging*
+25. **[Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](02-MARKDOWN/Model-Merging/Mix_Data_Merge_Models_Multi_Task_Learning_STUDY.md)** - *merging*
+26. **[Investigating Continual Pretraining in Large Language Models: Insights and Implications](02-MARKDOWN/Model-Merging/Continual_Pretraining_LLMs_Knowledge_Transfer_STUDY.md)** - *continual training*
 
 ### 👤 Preference & Personalization Papers (2 papers)
-27. **When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning** - *preference*
-28. **A Post-trainer's Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics** - *multilingual*
+
+27. **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](02-MARKDOWN/Preference-Personalization/When_Personalization_Meets_Reality_STUDY.md)** - *preference*
+28. **[A Post-trainer's Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics](02-MARKDOWN/Preference-Personalization/Post_Trainer_Guide_Multilingual_Training_Data_STUDY.md)** - *multilingual*
 
 ## 🎬 Video Submission Requirements
 
