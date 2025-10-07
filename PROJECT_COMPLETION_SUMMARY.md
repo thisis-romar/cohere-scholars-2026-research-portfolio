@@ -15,7 +15,7 @@
 ### 📚 **Research Analysis Portfolio** ✅ COMPLETE
 
 - ✅ **27/27 comprehensive paper analyses** completed across 7 ML domains
-- ✅ **GitHub Repository Live**: https://github.com/thisis-romar/cohere-scholars-2026-research-portfolio
+- ✅ **GitHub Repository Live**: https://github.com/thisis-romar/emblem.io-whatsapp-receipts
 - ✅ **Professional showcase** demonstrating engineering + research capabilities
 - ✅ **Strategic domain coverage**: Data Training, Inference, Architecture, Merging, Multimodal, Preference, Optimization
 

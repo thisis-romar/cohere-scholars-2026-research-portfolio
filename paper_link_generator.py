@@ -39,7 +39,7 @@ def get_md_files_mapping():
 
 def create_github_link(paper_title, github_path):
     """Create a GitHub link for a paper analysis."""
-    base_url = "https://github.com/thisis-romar/cohere-scholars-2026-research-portfolio/blob/main/"
+    base_url = "https://github.com/thisis-romar/emblem.io-whatsapp-receipts/blob/main/"
     # URL encode the path properly
     encoded_path = quote(github_path, safe='/')
     return f"[{paper_title}]({base_url}{encoded_path})"
