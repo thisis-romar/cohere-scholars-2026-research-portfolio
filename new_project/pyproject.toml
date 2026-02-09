@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "new-project"
+version = "0.1.0"
+description = "Starter Python project for the research portfolio repository"
+authors = ["Cohere Scholars <scholars@example.com>"]
+readme = "README.md"
+packages = [{ include = "new_project", from = "src" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4"
+
+[build-system]
+requires = ["poetry-core>=1.5.0"]
+build-backend = "poetry.core.masonry.api"
